@@ -8,6 +8,6 @@
 
 ![test.htmlの表示](./test.html "ポップアップ文字")
 
+ [リンクの文字](https://www.google.co.jp/) 
 
-
-https://www.google.com/?hl=ja
+[testページ](./test.html)
